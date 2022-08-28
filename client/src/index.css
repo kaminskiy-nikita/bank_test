@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #f2f4f8;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*.mainContent {*/
+/*  width: 800px;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+/*main {*/
+/*  position: relative;*/
+/*}*/
+
+/*.pageHeader {*/
+/*  text-align: center;*/
+/*  margin-bottom: 20px;*/
+/*}*/
+
+/*.pageHeader {*/
+/*  font-size: 2rem;*/
+/*  font-weight: 800;*/
+/*}*/
+
+/*.error {*/
+/*  height: 60px;*/
+/*  background-color: #F8D7D9;*/
+/*  padding: 10px;*/
+/*  width: 400px;*/
+/*  margin: 0 auto;*/
+/*  text-align: center;*/
+/*}*/
+
+/*.error span {*/
+/*  display: inline-block;*/
+/*  background-color: black;*/
+/*  color: #fff;*/
+/*  padding: 10px;*/
+/*  cursor: pointer;*/
+/*  margin-left: 10px;*/
+/*}*/
+
+/*ul {*/
+/*  padding: 0;*/
+/*  width: 200px;*/
+/*  margin: 0 auto;*/
+/*}*/
+
+/*ul li {*/
+/*  height: 20px;*/
+/*  cursor: pointer;*/
+/*  text-decoration: underline;*/
+/*}*/
+
+/*.serviceDescription div {*/
+/*  margin-bottom: 10px;*/
+/*}*/
+
+
